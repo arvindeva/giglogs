@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}Some Retard
+            By{' '}Oops
           </a>
         </div>
       </div>
